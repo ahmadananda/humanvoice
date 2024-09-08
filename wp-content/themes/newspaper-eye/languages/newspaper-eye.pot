@@ -1,0 +1,427 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Newspaper Eye\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-26 13:53+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.3\n"
+"X-Domain: newspaper-eye"
+
+#. 1: Theme name, 2: Theme author.
+#: footer.php:29
+#, php-format
+msgid "%1$s by %2$s."
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:67
+msgid ", "
+msgstr ""
+
+#: functions.php:144
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/customizer.php:91
+msgid "All Newspaper Eye theme settings"
+msgstr ""
+
+#: actions/header-actions.php:29
+msgid "Breaking News"
+msgstr ""
+
+#: inc/customizer.php:424
+msgid "Classic Style"
+msgstr ""
+
+#: actions/header-actions.php:209
+msgid "Close"
+msgstr ""
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:42
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/customizer.php:379
+msgid "Container type"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:55
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#. Copyright date format, see https://www.php.net/date
+#: footer.php:22
+msgctxt "copyright date format"
+msgid "Y"
+msgstr ""
+
+#: inc/customizer.php:137
+msgid "Date Show?"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:104 template-parts/content-page.php:41
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/recomended-plugin.php:65
+msgid "Elementor"
+msgstr ""
+
+#: inc/customizer.php:386 inc/customizer.php:450
+msgid "Full width Container"
+msgstr ""
+
+#: inc/customizer.php:422
+msgid "Grid Style"
+msgstr ""
+
+#: inc/customizer.php:211
+msgid "Header Facebook url"
+msgstr ""
+
+#: inc/customizer.php:281
+msgid "Header Instagram url"
+msgstr ""
+
+#: inc/customizer.php:239
+msgid "Header Linkedin url"
+msgstr ""
+
+#: inc/customizer.php:267
+msgid "Header Pinterest url"
+msgstr ""
+
+#: inc/customizer.php:225
+msgid "Header Twitter url"
+msgstr ""
+
+#: inc/customizer.php:253
+msgid "Header Youtube url"
+msgstr ""
+
+#: inc/customizer.php:468
+msgid "Hide All Pages"
+msgstr ""
+
+#: inc/customizer.php:467
+msgid "Hide Only Front Page"
+msgstr ""
+
+#: inc/customizer.php:82
+msgid "Hide Site Tagline?"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://wpthemespace.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://wpthemespace.com/product/newspaper-eye/"
+msgstr ""
+
+#: 404.php:23
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: template-parts/content-none.php:45
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:87
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/customizer.php:405
+msgid "Left Sidebar"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:74
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/customizer.php:423
+msgid "List Style"
+msgstr ""
+
+#: functions.php:57
+msgid "Main Menu"
+msgstr ""
+
+#: actions/header-actions.php:208
+msgid "Menu"
+msgstr ""
+
+#: inc/recomended-plugin.php:75
+msgid "MG Elementor"
+msgstr ""
+
+#: inc/template-functions.php:53
+msgid "Minute"
+msgstr ""
+
+#. Name of the theme
+msgid "Newspaper Eye"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Newspaper Eye a modern and highly versatile WordPress theme designed to "
+"transform your website into a dynamic news hub or a vibrant online magazine. "
+"With its sleek design and feature-rich functionality. Newspaper Eye  is the "
+"perfect solution for bloggers, journalists, news outlets, and anyone looking "
+"to create a captivating online publication. Newspaper Eye offers a diverse "
+"range of layout options, making it easy to create a unique and engaging "
+"platform. Its responsive design ensures seamless viewing on any device, "
+"while the robust customization features empower you to shape your website's "
+"look and feel to match your brand's identity effortlessly. Newspaper Eye  "
+"also boasts excellent SEO optimization, ensuring that your content shines in "
+"search engine rankings. Translation-ready and social media integration "
+"further extend your global reach. Start your journey to online publishing "
+"success with  Newspaper Eye today."
+msgstr ""
+
+#: inc/customizer.php:365
+msgid "Newspaper Eye Blog Settings"
+msgstr ""
+
+#: inc/customizer.php:94
+msgid "Newspaper Eye Header Settings"
+msgstr ""
+
+#: inc/customizer.php:429
+msgid "Newspaper Eye Page Settings"
+msgstr ""
+
+#: actions/header-actions.php:182
+msgid "Newspaper Eye Theme"
+msgstr ""
+
+#: inc/customizer.php:367 inc/customizer.php:431
+msgid "Newspaper Eye theme blog settings"
+msgstr ""
+
+#: actions/header-actions.php:182
+msgid "Newspaper Eye Theme By"
+msgstr ""
+
+#: inc/customizer.php:96
+msgid "Newspaper Eye theme header settings"
+msgstr ""
+
+#: inc/customizer.php:90
+msgid "Newspaper Eye Theme settings"
+msgstr ""
+
+#: single.php:41
+msgid "Next:"
+msgstr ""
+
+#: inc/customizer.php:406
+msgid "No Sidebar"
+msgstr ""
+
+#. Author of the theme
+msgid "Noor Alam"
+msgstr ""
+
+#: template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#. 1: title.
+#: comments.php:36
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/customizer.php:443
+msgid "Page Container type"
+msgstr ""
+
+#: template-parts/content-page.php:27 template-parts/content.php:68
+msgid "Pages:"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:49
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:32
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:70
+#, php-format
+msgid "Posted in: %1$s"
+msgstr ""
+
+#: inc/recomended-plugin.php:70
+msgid "Posts Display"
+msgstr ""
+
+#: single.php:40
+msgid "Previous:"
+msgstr ""
+
+#: template-parts/content-list.php:38
+msgid "READ MORE"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/customizer.php:399
+msgid "Right and Left sidebar only show when sidebar widget is available. "
+msgstr ""
+
+#: inc/customizer.php:404
+msgid "Right Sidebar"
+msgstr ""
+
+#. %s: search query.
+#: search.php:40
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/customizer.php:398
+msgid "Select Blog Layout"
+msgstr ""
+
+#: inc/customizer.php:417
+msgid "Select Blog Style"
+msgstr ""
+
+#: inc/customizer.php:466
+msgid "Show all pages"
+msgstr ""
+
+#: inc/customizer.php:355
+msgid "Show Categories Menu Icon?"
+msgstr ""
+
+#: inc/customizer.php:109
+msgid "Show Header Area Top?"
+msgstr ""
+
+#: inc/customizer.php:165
+msgid "Show Header Middle Logo?"
+msgstr ""
+
+#: inc/customizer.php:152
+msgid "Show Header Middle?"
+msgstr ""
+
+#: inc/customizer.php:180
+msgid "Show Header Search?"
+msgstr ""
+
+#: inc/customizer.php:195
+msgid "Show Header Social?"
+msgstr ""
+
+#: inc/customizer.php:123
+msgid "Show Latest News Ticker?"
+msgstr ""
+
+#: inc/customizer.php:326
+msgid "Show Main Menu?"
+msgstr ""
+
+#: inc/customizer.php:311
+msgid "Show Menubar Logo?"
+msgstr ""
+
+#: inc/customizer.php:341
+msgid "Show Menubar Search Icon?"
+msgstr ""
+
+#: inc/customizer.php:297
+msgid "Show Menubar Section?"
+msgstr ""
+
+#: inc/customizer.php:461
+msgid "Show Page header"
+msgstr ""
+
+#: functions.php:142
+msgid "Sidebar"
+msgstr ""
+
+#: header.php:29
+msgid "Skip to content"
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/customizer.php:385 inc/customizer.php:449
+msgid "Standard Container"
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:77
+#, php-format
+msgid "Tagged: %1$s"
+msgstr ""
+
+#: actions/header-actions.php:182
+msgid "Wp Theme Space"
+msgstr ""
+
+#: inc/customizer.php:444
+msgid "You can set standard container or full width container for page. "
+msgstr ""
+
+#: inc/customizer.php:380
+msgid "You can set standard container or full width container. "
+msgstr ""

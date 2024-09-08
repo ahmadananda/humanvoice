@@ -1,0 +1,248 @@
+[28-Sep-2023 05:04:19 UTC] PHP Warning:  Undefined property: WP_Ajax_Upgrader_Skin::$api in /home/humanvoi/public_html/wp-admin/includes/class-theme-upgrader.php on line 160
+[28-Sep-2023 05:04:20 UTC] PHP Warning:  Undefined array key "type" in /home/humanvoi/public_html/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-waf/src/class-waf-initializer.php on line 135
+[28-Sep-2023 07:10:56 UTC] PHP Warning:  Undefined array key "wp_google_fonts_global_notification" in /home/humanvoi/public_html/wp-content/plugins/wp-google-fonts/google-fonts.php on line 1101
+[28-Sep-2023 07:13:05 UTC] PHP Warning:  Undefined array key "wp_google_fonts_global_notification" in /home/humanvoi/public_html/wp-content/plugins/wp-google-fonts/google-fonts.php on line 1101
+[28-Sep-2023 07:13:19 UTC] PHP Warning:  Undefined array key "wp_google_fonts_global_notification" in /home/humanvoi/public_html/wp-content/plugins/wp-google-fonts/google-fonts.php on line 1101
+[04-Oct-2023 16:04:17 UTC] PHP Warning:  Undefined array key "wp_google_fonts_global_notification" in /home/humanvoi/public_html/wp-content/plugins/wp-google-fonts/google-fonts.php on line 1101
+[04-Oct-2023 16:04:39 UTC] PHP Warning:  Undefined array key "wp_google_fonts_global_notification" in /home/humanvoi/public_html/wp-content/plugins/wp-google-fonts/google-fonts.php on line 1101
+[04-Oct-2023 16:27:06 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT option_value FROM F1AZHo4_options WHERE option_name = 'jpsq_sync_checkout' made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\Jetpack\Sync\Sender->do_sync, Automattic\Jetpack\Sync\Dedicated_Sender::spawn_sync, Automattic\Jetpack\Sync\Queue->is_locked, Automattic\Jetpack\Sync\Queue->get_checkout_id
+[04-Oct-2023 16:27:06 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT count(*) FROM F1AZHo4_options WHERE option_name LIKE 'jpsq_sync-%' made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\Jetpack\Sync\Sender->do_sync, Automattic\Jetpack\Sync\Dedicated_Sender::spawn_sync, Automattic\Jetpack\Sync\Queue->size, Automattic\Jetpack\Sync\Queue\Queue_Storage_Options->get_item_count
+[04-Oct-2023 16:27:06 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT option_value FROM F1AZHo4_options WHERE option_name = 'jetpack_sync_full_status' LIMIT 1 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\Jetpack\Sync\Sender->do_full_sync, Automattic\Jetpack\Sync\Modules\Full_Sync_Immediately->get_status, Jetpack_Options::get_raw_option
+[08-Oct-2023 05:58:37 UTC] PHP Warning:  Undefined property: WP_Ajax_Upgrader_Skin::$api in /home/humanvoi/public_html/wp-admin/includes/class-theme-upgrader.php on line 160
+[08-Oct-2023 05:58:37 UTC] PHP Warning:  Undefined array key "type" in /home/humanvoi/public_html/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-waf/src/class-waf-initializer.php on line 135
+[08-Oct-2023 05:58:48 UTC] PHP Warning:  Undefined property: WP_Ajax_Upgrader_Skin::$api in /home/humanvoi/public_html/wp-admin/includes/class-theme-upgrader.php on line 160
+[08-Oct-2023 05:58:49 UTC] PHP Warning:  Undefined array key "type" in /home/humanvoi/public_html/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-waf/src/class-waf-initializer.php on line 135
+[08-Oct-2023 06:01:04 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT option_value FROM F1AZHo4_options WHERE option_name = 'jpsq_sync_checkout' made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\Jetpack\Sync\Sender->do_sync, Automattic\Jetpack\Sync\Dedicated_Sender::spawn_sync, Automattic\Jetpack\Sync\Queue->is_locked, Automattic\Jetpack\Sync\Queue->get_checkout_id
+[08-Oct-2023 06:01:04 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT count(*) FROM F1AZHo4_jetpack_sync_queue WHERE queue_id = 'sync' made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\Jetpack\Sync\Sender->do_sync, Automattic\Jetpack\Sync\Dedicated_Sender::spawn_sync, Automattic\Jetpack\Sync\Queue->size, Automattic\Jetpack\Sync\Queue\Queue_Storage_Table->get_item_count
+[08-Oct-2023 06:01:04 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT option_value FROM F1AZHo4_options WHERE option_name = 'jetpack_sync_full_status' LIMIT 1 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\Jetpack\Sync\Sender->do_full_sync, Automattic\Jetpack\Sync\Modules\Full_Sync_Immediately->get_status, Jetpack_Options::get_raw_option
+[08-Oct-2023 06:15:40 UTC] WordPress database error Commands out of sync; you can't run this command now for query SHOW FULL COLUMNS FROM `F1AZHo4_options` made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_OptionLock->set, update_option
+[08-Oct-2023 06:15:40 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT COUNT(DISTINCT claim_id) FROM F1AZHo4_actionscheduler_actions WHERE claim_id != 0 AND status IN ( 'pending', 'in-progress') made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_AsyncRequest_QueueRunner->maybe_dispatch, ActionScheduler_AsyncRequest_QueueRunner->allow, ActionScheduler_Abstract_QueueRunner->has_maximum_concurrent_batches, ActionScheduler_DBStore->get_claim_count
+[08-Oct-2023 06:15:40 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT a.action_id FROM F1AZHo4_actionscheduler_actions a WHERE 1=1 AND a.status IN ('pending') AND a.scheduled_date_gmt <= '2023-10-08 06:15:40' LIMIT 0, 5 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_AsyncRequest_QueueRunner->maybe_dispatch, ActionScheduler_AsyncRequest_QueueRunner->allow, ActionScheduler_Store->has_pending_actions_due, ActionScheduler_DBStore->query_actions
+[08-Oct-2023 06:15:40 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT option_value FROM F1AZHo4_options WHERE option_name = 'jpsq_sync_checkout' made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\Jetpack\Sync\Sender->do_sync, Automattic\Jetpack\Sync\Dedicated_Sender::spawn_sync, Automattic\Jetpack\Sync\Queue->is_locked, Automattic\Jetpack\Sync\Queue->get_checkout_id
+[08-Oct-2023 06:15:40 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT count(*) FROM F1AZHo4_jetpack_sync_queue WHERE queue_id = 'sync' made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\Jetpack\Sync\Sender->do_sync, Automattic\Jetpack\Sync\Dedicated_Sender::spawn_sync, Automattic\Jetpack\Sync\Queue->size, Automattic\Jetpack\Sync\Queue\Queue_Storage_Table->get_item_count
+[08-Oct-2023 06:15:40 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT option_value FROM F1AZHo4_options WHERE option_name = 'jetpack_sync_full_status' LIMIT 1 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\Jetpack\Sync\Sender->do_full_sync, Automattic\Jetpack\Sync\Modules\Full_Sync_Immediately->get_status, Jetpack_Options::get_raw_option
+[08-Oct-2023 06:20:33 UTC] PHP Warning:  Undefined array key "wp_google_fonts_global_notification" in /home/humanvoi/public_html/wp-content/plugins/wp-google-fonts/google-fonts.php on line 1101
+[08-Oct-2023 06:20:55 UTC] PHP Warning:  Undefined array key "wp_google_fonts_global_notification" in /home/humanvoi/public_html/wp-content/plugins/wp-google-fonts/google-fonts.php on line 1101
+[09-Oct-2023 02:03:33 UTC] PHP Warning:  Undefined array key "wp_google_fonts_global_notification" in /home/humanvoi/public_html/wp-content/plugins/wp-google-fonts/google-fonts.php on line 1101
+[09-Oct-2023 02:04:29 UTC] PHP Warning:  Undefined array key "wp_google_fonts_global_notification" in /home/humanvoi/public_html/wp-content/plugins/wp-google-fonts/google-fonts.php on line 1101
+[16-Oct-2023 02:32:45 UTC] PHP Warning:  Attempt to read property "title" on null in /home/humanvoi/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[16-Oct-2023 02:36:49 UTC] PHP Warning:  Attempt to read property "title" on null in /home/humanvoi/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[16-Oct-2023 08:47:42 UTC] PHP Warning:  Attempt to read property "title" on null in /home/humanvoi/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[22-Oct-2023 11:30:14 UTC] PHP Warning:  Undefined array key "wp_google_fonts_global_notification" in /home/humanvoi/public_html/wp-content/plugins/wp-google-fonts/google-fonts.php on line 1101
+[02-Nov-2023 07:03:37 UTC] PHP Warning:  require_once(/home/humanvoi/public_html/wp-content/themes/superb-pixels/vendor/autoload.php): Failed to open stream: No such file or directory in /home/humanvoi/public_html/wp-content/themes/elegant-writer/functions.php on line 2
+[02-Nov-2023 07:03:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/humanvoi/public_html/wp-content/themes/superb-pixels/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/humanvoi/public_html/wp-content/themes/elegant-writer/functions.php:2
+Stack trace:
+#0 /home/humanvoi/public_html/wp-settings.php(600): include()
+#1 /home/humanvoi/public_html/wp-config.php(104): require_once('/home/humanvoi/...')
+#2 /home/humanvoi/public_html/wp-load.php(50): require_once('/home/humanvoi/...')
+#3 /home/humanvoi/public_html/wp-admin/admin.php(34): require_once('/home/humanvoi/...')
+#4 /home/humanvoi/public_html/wp-admin/themes.php(10): require_once('/home/humanvoi/...')
+#5 {main}
+  thrown in /home/humanvoi/public_html/wp-content/themes/elegant-writer/functions.php on line 2
+[02-Nov-2023 07:03:41 UTC] PHP Warning:  require_once(/home/humanvoi/public_html/wp-content/themes/superb-pixels/vendor/autoload.php): Failed to open stream: No such file or directory in /home/humanvoi/public_html/wp-content/themes/elegant-writer/functions.php on line 2
+[02-Nov-2023 07:03:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/humanvoi/public_html/wp-content/themes/superb-pixels/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/humanvoi/public_html/wp-content/themes/elegant-writer/functions.php:2
+Stack trace:
+#0 /home/humanvoi/public_html/wp-settings.php(600): include()
+#1 /home/humanvoi/public_html/wp-config.php(104): require_once('/home/humanvoi/...')
+#2 /home/humanvoi/public_html/wp-load.php(50): require_once('/home/humanvoi/...')
+#3 /home/humanvoi/public_html/wp-admin/admin.php(34): require_once('/home/humanvoi/...')
+#4 /home/humanvoi/public_html/wp-admin/themes.php(10): require_once('/home/humanvoi/...')
+#5 {main}
+  thrown in /home/humanvoi/public_html/wp-content/themes/elegant-writer/functions.php on line 2
+[02-Nov-2023 07:03:43 UTC] PHP Warning:  require_once(/home/humanvoi/public_html/wp-content/themes/superb-pixels/vendor/autoload.php): Failed to open stream: No such file or directory in /home/humanvoi/public_html/wp-content/themes/elegant-writer/functions.php on line 2
+[02-Nov-2023 07:03:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/humanvoi/public_html/wp-content/themes/superb-pixels/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/humanvoi/public_html/wp-content/themes/elegant-writer/functions.php:2
+Stack trace:
+#0 /home/humanvoi/public_html/wp-settings.php(600): include()
+#1 /home/humanvoi/public_html/wp-config.php(104): require_once('/home/humanvoi/...')
+#2 /home/humanvoi/public_html/wp-load.php(50): require_once('/home/humanvoi/...')
+#3 /home/humanvoi/public_html/wp-admin/admin.php(34): require_once('/home/humanvoi/...')
+#4 /home/humanvoi/public_html/wp-admin/theme-install.php(10): require_once('/home/humanvoi/...')
+#5 {main}
+  thrown in /home/humanvoi/public_html/wp-content/themes/elegant-writer/functions.php on line 2
+[02-Nov-2023 07:08:23 UTC] PHP Warning:  Undefined property: WP_Ajax_Upgrader_Skin::$api in /home/humanvoi/public_html/wp-admin/includes/class-theme-upgrader.php on line 160
+[02-Nov-2023 07:40:12 UTC] PHP Warning:  Undefined property: WP_Ajax_Upgrader_Skin::$api in /home/humanvoi/public_html/wp-admin/includes/class-theme-upgrader.php on line 160
+[02-Nov-2023 07:40:47 UTC] PHP Warning:  Undefined property: WP_Ajax_Upgrader_Skin::$api in /home/humanvoi/public_html/wp-admin/includes/class-theme-upgrader.php on line 160
+[02-Nov-2023 07:44:33 UTC] PHP Warning:  Undefined array key "wp_google_fonts_global_notification" in /home/humanvoi/public_html/wp-content/plugins/wp-google-fonts/google-fonts.php on line 1101
+[02-Nov-2023 07:45:03 UTC] PHP Warning:  Undefined array key "wp_google_fonts_global_notification" in /home/humanvoi/public_html/wp-content/plugins/wp-google-fonts/google-fonts.php on line 1101
+[04-Mar-2024 09:47:44 UTC] PHP Warning:  Attempt to read property "presentation" on bool in /home/humanvoi/public_html/wp-content/plugins/wordpress-seo/src/integrations/third-party/elementor.php on line 777
+[04-Mar-2024 09:47:44 UTC] PHP Warning:  Attempt to read property "title" on null in /home/humanvoi/public_html/wp-content/plugins/wordpress-seo/src/integrations/third-party/elementor.php on line 777
+[04-Mar-2024 09:47:44 UTC] PHP Warning:  Attempt to read property "presentation" on bool in /home/humanvoi/public_html/wp-content/plugins/wordpress-seo/src/integrations/third-party/elementor.php on line 778
+[04-Mar-2024 09:47:44 UTC] PHP Warning:  Attempt to read property "meta_description" on null in /home/humanvoi/public_html/wp-content/plugins/wordpress-seo/src/integrations/third-party/elementor.php on line 778
+[04-Mar-2024 09:57:48 UTC] PHP Warning:  Attempt to read property "title" on null in /home/humanvoi/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[04-Mar-2024 10:10:24 UTC] PHP Warning:  Undefined array key "column" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[04-Mar-2024 10:10:24 UTC] PHP Warning:  Undefined array key "url" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[04-Mar-2024 10:19:04 UTC] PHP Warning:  Undefined array key "column" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[04-Mar-2024 10:19:04 UTC] PHP Warning:  Undefined array key "url" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[04-Mar-2024 13:59:11 UTC] PHP Warning:  Attempt to read property "title" on null in /home/humanvoi/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[04-Mar-2024 16:15:30 UTC] PHP Warning:  Attempt to read property "title" on null in /home/humanvoi/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[09-Mar-2024 14:37:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ElementorPro\Core\Utils::_unstable_check_document_permissions() in /home/humanvoi/public_html/wp-content/plugins/elementor-pro/modules/payments/module.php:150
+Stack trace:
+#0 [internal function]: ElementorPro\Modules\Payments\Module->get_stripe_tax_rates(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#1 /home/humanvoi/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(176): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 /home/humanvoi/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#3 /home/humanvoi/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#4 /home/humanvoi/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home/humanvoi/public_html/wp-admin/admin-ajax.php(188): do_action('wp_ajax_element...')
+#6 {main}
+  thrown in /home/humanvoi/public_html/wp-content/plugins/elementor-pro/modules/payments/module.php on line 150
+[09-Mar-2024 15:13:43 UTC] PHP Warning:  Undefined array key "column" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[09-Mar-2024 15:13:43 UTC] PHP Warning:  Undefined array key "url" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[09-Mar-2024 15:16:48 UTC] PHP Warning:  Undefined array key "column" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[09-Mar-2024 15:16:48 UTC] PHP Warning:  Undefined array key "url" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[09-Mar-2024 15:21:39 UTC] PHP Warning:  Undefined array key "column" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[09-Mar-2024 15:21:39 UTC] PHP Warning:  Undefined array key "url" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[09-Mar-2024 15:21:57 UTC] PHP Warning:  Undefined array key "column" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[09-Mar-2024 15:21:57 UTC] PHP Warning:  Undefined array key "url" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[09-Mar-2024 15:22:34 UTC] PHP Warning:  Undefined array key "column" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[09-Mar-2024 15:22:34 UTC] PHP Warning:  Undefined array key "url" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[09-Mar-2024 15:25:29 UTC] PHP Warning:  Undefined array key "column" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[09-Mar-2024 15:25:29 UTC] PHP Warning:  Undefined array key "url" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[09-Mar-2024 15:26:00 UTC] PHP Warning:  Undefined array key "column" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[09-Mar-2024 15:26:00 UTC] PHP Warning:  Undefined array key "url" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[09-Mar-2024 15:27:07 UTC] PHP Warning:  Undefined array key "column" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[09-Mar-2024 15:27:07 UTC] PHP Warning:  Undefined array key "url" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[09-Mar-2024 15:27:34 UTC] PHP Warning:  Undefined array key "column" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[09-Mar-2024 15:27:34 UTC] PHP Warning:  Undefined array key "url" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[09-Mar-2024 15:29:16 UTC] PHP Warning:  Undefined array key "column" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[09-Mar-2024 15:29:16 UTC] PHP Warning:  Undefined array key "url" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[09-Mar-2024 15:33:02 UTC] PHP Warning:  Undefined array key "column" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[09-Mar-2024 15:33:02 UTC] PHP Warning:  Undefined array key "url" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[09-Mar-2024 15:37:46 UTC] PHP Warning:  Undefined array key "column" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[09-Mar-2024 15:37:46 UTC] PHP Warning:  Undefined array key "url" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[09-Mar-2024 15:39:06 UTC] PHP Warning:  Undefined array key "column" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[09-Mar-2024 15:39:06 UTC] PHP Warning:  Undefined array key "url" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[09-Mar-2024 15:42:14 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "page_template" on null in /home/humanvoi/public_html/wp-includes/post.php:4635
+Stack trace:
+#0 /home/humanvoi/public_html/wp-includes/post.php(4862): wp_insert_post(Array, false, true)
+#1 /home/humanvoi/public_html/wp-admin/includes/post.php(1974): wp_update_post(Array)
+#2 /home/humanvoi/public_html/wp-content/plugins/elementor/core/base/document.php(595): wp_create_post_autosave(Array)
+#3 /home/humanvoi/public_html/wp-content/plugins/elementor/core/documents-manager.php(530): Elementor\Core\Base\Document->get_autosave(1, true)
+#4 [internal function]: Elementor\Core\Documents_Manager->ajax_save(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 /home/humanvoi/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(176): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#6 /home/humanvoi/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#7 /home/humanvoi/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#8 /home/humanvoi/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#9 /home/humanvoi/public_html/wp-admin/admin-ajax.php(188): do_action('wp_ajax_element...')
+#10 {main}
+  thrown in /home/humanvoi/public_html/wp-includes/post.php on line 4635
+[09-Mar-2024 15:42:40 UTC] PHP Warning:  Undefined array key "column" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[09-Mar-2024 15:42:40 UTC] PHP Warning:  Undefined array key "url" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[10-Mar-2024 06:14:25 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT option_value FROM F1AZHo4_options WHERE option_name = 'action_scheduler_lock_async-request-runner' made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_Lock->is_locked, ActionScheduler_OptionLock->get_expiration, ActionScheduler_OptionLock->get_existing_lock
+[10-Mar-2024 06:14:25 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT option_value FROM F1AZHo4_options WHERE option_name = 'action_scheduler_lock_async-request-runner' made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_OptionLock->set, ActionScheduler_OptionLock->get_existing_lock
+[10-Mar-2024 06:14:25 UTC] WordPress database error Commands out of sync; you can't run this command now for query SHOW FULL COLUMNS FROM `F1AZHo4_options` made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_OptionLock->set
+[17-Mar-2024 14:35:09 UTC] PHP Warning:  Undefined array key "column" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[17-Mar-2024 14:35:09 UTC] PHP Warning:  Undefined array key "url" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[17-Mar-2024 14:35:25 UTC] PHP Warning:  Undefined array key "column" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[17-Mar-2024 14:35:25 UTC] PHP Warning:  Undefined array key "url" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[17-Mar-2024 14:35:36 UTC] PHP Warning:  Undefined array key "column" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[17-Mar-2024 14:35:36 UTC] PHP Warning:  Undefined array key "url" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[17-Mar-2024 14:36:07 UTC] PHP Warning:  Undefined array key "column" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[17-Mar-2024 14:36:07 UTC] PHP Warning:  Undefined array key "url" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[17-Mar-2024 14:37:18 UTC] PHP Warning:  Undefined array key "column" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[17-Mar-2024 14:37:18 UTC] PHP Warning:  Undefined array key "url" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[17-Mar-2024 14:42:06 UTC] PHP Warning:  Undefined array key "column" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 16
+[17-Mar-2024 14:42:06 UTC] PHP Warning:  Undefined array key "url" in /home/humanvoi/public_html/wp-content/plugins/elementor/core/logger/items/js.php on line 17
+[16-May-2024 08:22:07 UTC] PHP Warning:  Attempt to read property "ID" on null in /home/humanvoi/public_html/wp-includes/post.php on line 7585
+[16-May-2024 08:22:07 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home/humanvoi/public_html/wp-includes/post.php on line 7840
+[16-May-2024 08:22:07 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home/humanvoi/public_html/wp-includes/theme.php on line 3636
+[16-May-2024 08:22:07 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home/humanvoi/public_html/wp-content/plugins/elementor-pro/modules/assets-manager/asset-types/icons/custom-icons.php on line 473
+[16-May-2024 08:22:07 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home/humanvoi/public_html/wp-includes/theme.php on line 3862
+[16-May-2024 08:22:07 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home/humanvoi/public_html/wp-includes/post.php on line 5516
+[16-May-2024 08:22:07 UTC] PHP Warning:  Attempt to read property "ID" on null in /home/humanvoi/public_html/wp-includes/post.php on line 5516
+[16-May-2024 08:22:07 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home/humanvoi/public_html/wp-includes/post.php on line 4774
+[16-May-2024 08:22:07 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home/humanvoi/public_html/wp-content/plugins/wpforms-lite/src/Forms/Locator.php on line 751
+[16-May-2024 08:22:07 UTC] PHP Warning:  Attempt to read property "post_name" on null in /home/humanvoi/public_html/wp-includes/post.php on line 6970
+[16-May-2024 08:22:07 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/humanvoi/public_html/wp-includes/post.php on line 6975
+[16-May-2024 08:22:07 UTC] PHP Warning:  Attempt to read property "post_date" on null in /home/humanvoi/public_html/wp-includes/post.php on line 7013
+[16-May-2024 08:22:07 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/humanvoi/public_html/wp-includes/post.php on line 7021
+[16-May-2024 08:22:07 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home/humanvoi/public_html/wp-includes/post.php on line 4817
+[16-May-2024 08:22:07 UTC] PHP Fatal error:  Uncaught TypeError: Elementor\TemplateLibrary\Source_Local::on_save_post(): Argument #2 ($post) must be of type WP_Post, null given, called in /home/humanvoi/public_html/wp-includes/class-wp-hook.php on line 326 and defined in /home/humanvoi/public_html/wp-content/plugins/elementor/includes/template-library/sources/local.php:1114
+Stack trace:
+#0 /home/humanvoi/public_html/wp-includes/class-wp-hook.php(326): Elementor\TemplateLibrary\Source_Local->on_save_post(685, NULL)
+#1 /home/humanvoi/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home/humanvoi/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/humanvoi/public_html/wp-includes/post.php(4828): do_action('save_post', 685, NULL, true)
+#4 /home/humanvoi/public_html/wp-includes/post.php(4930): wp_insert_post(Array, false, true)
+#5 /home/humanvoi/public_html/wp-content/plugins/elementor/includes/db.php(235): wp_update_post(Array)
+#6 /home/humanvoi/public_html/wp-content/plugins/elementor/core/base/document.php(1348): Elementor\DB->save_plain_text(685)
+#7 /home/humanvoi/public_html/wp-content/plugins/elementor/core/base/document.php(841): Elementor\Core\Base\Document->save_elements(Array)
+#8 /home/humanvoi/public_html/wp-content/plugins/elementor/core/documents-manager.php(545): Elementor\Core\Base\Document->save(Array)
+#9 [internal function]: Elementor\Core\Documents_Manager->ajax_save(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#10 /home/humanvoi/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(176): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#11 /home/humanvoi/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#12 /home/humanvoi/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#13 /home/humanvoi/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#14 /home/humanvoi/public_html/wp-admin/admin-ajax.php(192): do_action('wp_ajax_element...')
+#15 {main}
+  thrown in /home/humanvoi/public_html/wp-content/plugins/elementor/includes/template-library/sources/local.php on line 1114
+[17-Jul-2024 06:53:37 UTC] PHP Warning:  simplexml_load_file(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:53:37 UTC] PHP Warning:  simplexml_load_file(https://www.humanvoice.biz.id/wp-content/uploads/2024/07/support.svg): Failed to open stream: no suitable wrapper could be found in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:53:37 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;https://www.humanvoice.biz.id/wp-content/uploads/2024/07/support.svg&quot; in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:53:38 UTC] PHP Warning:  simplexml_load_file(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:53:38 UTC] PHP Warning:  simplexml_load_file(https://www.humanvoice.biz.id/wp-content/uploads/2024/07/truck.svg): Failed to open stream: no suitable wrapper could be found in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:53:38 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;https://www.humanvoice.biz.id/wp-content/uploads/2024/07/truck.svg&quot; in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:53:38 UTC] PHP Warning:  simplexml_load_file(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:53:38 UTC] PHP Warning:  simplexml_load_file(https://www.humanvoice.biz.id/wp-content/uploads/2024/07/gift.svg): Failed to open stream: no suitable wrapper could be found in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:53:38 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;https://www.humanvoice.biz.id/wp-content/uploads/2024/07/gift.svg&quot; in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:54:04 UTC] PHP Warning:  simplexml_load_file(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:54:04 UTC] PHP Warning:  simplexml_load_file(https://www.humanvoice.biz.id/wp-content/uploads/2024/07/pin.svg): Failed to open stream: no suitable wrapper could be found in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:54:04 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;https://www.humanvoice.biz.id/wp-content/uploads/2024/07/pin.svg&quot; in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:54:05 UTC] PHP Warning:  simplexml_load_file(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:54:05 UTC] PHP Warning:  simplexml_load_file(https://www.humanvoice.biz.id/wp-content/uploads/2024/07/telephone.svg): Failed to open stream: no suitable wrapper could be found in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:54:05 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;https://www.humanvoice.biz.id/wp-content/uploads/2024/07/telephone.svg&quot; in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:54:06 UTC] PHP Warning:  simplexml_load_file(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:54:06 UTC] PHP Warning:  simplexml_load_file(https://www.humanvoice.biz.id/wp-content/uploads/2024/07/note.svg): Failed to open stream: no suitable wrapper could be found in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:54:06 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;https://www.humanvoice.biz.id/wp-content/uploads/2024/07/note.svg&quot; in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:54:17 UTC] PHP Warning:  simplexml_load_file(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:54:17 UTC] PHP Warning:  simplexml_load_file(https://www.humanvoice.biz.id/wp-content/uploads/2024/07/buy.svg): Failed to open stream: no suitable wrapper could be found in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:54:17 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;https://www.humanvoice.biz.id/wp-content/uploads/2024/07/buy.svg&quot; in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:54:31 UTC] PHP Warning:  simplexml_load_file(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:54:31 UTC] PHP Warning:  simplexml_load_file(https://www.humanvoice.biz.id/wp-content/uploads/2024/07/app.svg): Failed to open stream: no suitable wrapper could be found in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:54:31 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;https://www.humanvoice.biz.id/wp-content/uploads/2024/07/app.svg&quot; in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:54:31 UTC] PHP Warning:  simplexml_load_file(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:54:31 UTC] PHP Warning:  simplexml_load_file(https://www.humanvoice.biz.id/wp-content/uploads/2024/07/support-1.svg): Failed to open stream: no suitable wrapper could be found in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:54:31 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;https://www.humanvoice.biz.id/wp-content/uploads/2024/07/support-1.svg&quot; in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:55:04 UTC] PHP Warning:  simplexml_load_file(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:55:04 UTC] PHP Warning:  simplexml_load_file(https://www.humanvoice.biz.id/wp-content/uploads/2024/07/focus.svg): Failed to open stream: no suitable wrapper could be found in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:55:04 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;https://www.humanvoice.biz.id/wp-content/uploads/2024/07/focus.svg&quot; in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:55:05 UTC] PHP Warning:  simplexml_load_file(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:55:05 UTC] PHP Warning:  simplexml_load_file(https://www.humanvoice.biz.id/wp-content/uploads/2024/07/photo.svg): Failed to open stream: no suitable wrapper could be found in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:55:05 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;https://www.humanvoice.biz.id/wp-content/uploads/2024/07/photo.svg&quot; in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:55:05 UTC] PHP Warning:  simplexml_load_file(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:55:05 UTC] PHP Warning:  simplexml_load_file(https://www.humanvoice.biz.id/wp-content/uploads/2024/07/film.svg): Failed to open stream: no suitable wrapper could be found in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:55:05 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;https://www.humanvoice.biz.id/wp-content/uploads/2024/07/film.svg&quot; in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:55:06 UTC] PHP Warning:  simplexml_load_file(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:55:06 UTC] PHP Warning:  simplexml_load_file(https://www.humanvoice.biz.id/wp-content/uploads/2024/07/photo-1.svg): Failed to open stream: no suitable wrapper could be found in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:55:06 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;https://www.humanvoice.biz.id/wp-content/uploads/2024/07/photo-1.svg&quot; in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:55:07 UTC] PHP Warning:  simplexml_load_file(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:55:07 UTC] PHP Warning:  simplexml_load_file(https://www.humanvoice.biz.id/wp-content/uploads/2024/07/eye.svg): Failed to open stream: no suitable wrapper could be found in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:55:07 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;https://www.humanvoice.biz.id/wp-content/uploads/2024/07/eye.svg&quot; in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:55:07 UTC] PHP Warning:  simplexml_load_file(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:55:07 UTC] PHP Warning:  simplexml_load_file(https://www.humanvoice.biz.id/wp-content/uploads/2024/07/exclamation.svg): Failed to open stream: no suitable wrapper could be found in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:55:07 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;https://www.humanvoice.biz.id/wp-content/uploads/2024/07/exclamation.svg&quot; in /home/humanvoi/public_html/wp-content/plugins/elementor/core/files/file-types/svg.php on line 161
+[17-Jul-2024 06:58:30 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/humanvoi/public_html/wp-includes/class-wp-image-editor.php on line 592
+[17-Jul-2024 07:05:02 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/humanvoi/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php on line 2495
+[17-Jul-2024 07:10:28 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/humanvoi/public_html/wp-includes/class-wp-image-editor-gd.php on line 234
+[17-Jul-2024 07:13:21 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/humanvoi/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php on line 2223
+[17-Jul-2024 07:17:15 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/humanvoi/public_html/wp-content/plugins/elementor/includes/managers/controls.php on line 642
+[17-Jul-2024 07:19:29 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/humanvoi/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php on line 2223
+[17-Jul-2024 07:42:38 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/humanvoi/public_html/wp-content/plugins/elementor/core/base/document.php on line 1952
+[17-Jul-2024 07:42:38 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/humanvoi/public_html/wp-content/plugins/elementor/core/base/document.php on line 1961
+[17-Jul-2024 07:43:12 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/humanvoi/public_html/wp-content/plugins/elementor/core/base/document.php on line 1952
+[17-Jul-2024 07:43:12 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/humanvoi/public_html/wp-content/plugins/elementor/core/base/document.php on line 1961
+[17-Jul-2024 07:43:46 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/humanvoi/public_html/wp-content/plugins/elementor/core/base/document.php on line 1952
+[17-Jul-2024 07:43:46 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/humanvoi/public_html/wp-content/plugins/elementor/core/base/document.php on line 1961
+[17-Jul-2024 07:44:20 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/humanvoi/public_html/wp-content/plugins/elementor/core/base/document.php on line 1952
+[17-Jul-2024 07:44:20 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/humanvoi/public_html/wp-content/plugins/elementor/core/base/document.php on line 1961
+[17-Jul-2024 08:57:20 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/humanvoi/public_html/wp-content/plugins/elementor/core/base/document.php on line 1952
+[17-Jul-2024 08:57:20 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/humanvoi/public_html/wp-content/plugins/elementor/core/base/document.php on line 1961
+[17-Jul-2024 08:58:22 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/humanvoi/public_html/wp-content/plugins/elementor/core/base/document.php on line 1952
+[17-Jul-2024 08:58:22 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/humanvoi/public_html/wp-content/plugins/elementor/core/base/document.php on line 1961
+[17-Jul-2024 09:31:52 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/humanvoi/public_html/wp-content/plugins/elementor/core/base/document.php on line 1952
+[17-Jul-2024 09:31:52 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/humanvoi/public_html/wp-content/plugins/elementor/core/base/document.php on line 1961
+[17-Jul-2024 09:32:49 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/humanvoi/public_html/wp-content/plugins/elementor/core/base/document.php on line 1952
+[17-Jul-2024 09:32:49 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/humanvoi/public_html/wp-content/plugins/elementor/core/base/document.php on line 1961
+[17-Jul-2024 09:33:09 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/humanvoi/public_html/wp-content/plugins/elementor/core/base/document.php on line 1952
+[17-Jul-2024 09:33:09 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/humanvoi/public_html/wp-content/plugins/elementor/core/base/document.php on line 1961
+[17-Jul-2024 09:33:46 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/humanvoi/public_html/wp-content/plugins/elementor/core/base/document.php on line 1952
+[17-Jul-2024 09:33:46 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/humanvoi/public_html/wp-content/plugins/elementor/core/base/document.php on line 1961

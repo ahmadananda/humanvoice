@@ -1,0 +1,48 @@
+[25-Apr-2024 06:38:56 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/humanvoi/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/humanvoi/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Apr-2024 09:33:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/humanvoi/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/humanvoi/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Apr-2024 14:10:35 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/humanvoi/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/humanvoi/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[28-Apr-2024 12:33:38 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/humanvoi/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/humanvoi/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[01-May-2024 15:19:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/humanvoi/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/humanvoi/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[06-May-2024 02:28:53 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/humanvoi/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/humanvoi/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[06-May-2024 02:42:55 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/humanvoi/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/humanvoi/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[07-May-2024 17:56:16 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/humanvoi/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/humanvoi/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[07-May-2024 20:26:04 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/humanvoi/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/humanvoi/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-May-2024 21:16:18 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/humanvoi/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/humanvoi/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[09-May-2024 07:16:23 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/humanvoi/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/humanvoi/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[09-May-2024 17:01:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/humanvoi/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/humanvoi/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
